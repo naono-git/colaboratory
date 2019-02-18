@@ -1,0 +1,6 @@
+https://github.com/naono-git/colaboratory/blob/master/test.ipynb
+
+https://colab.research.google.com/github/naono-git/colaboratory/blob/master/test.ipynb
+
+https://colab.research.google.com/drive/1J-tJYTsHGrm4-q1qv8XaFwhgY82B7bTc
+
